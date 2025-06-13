@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/datoimna3/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
 </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davit-imnadze-848171327/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/davit-imnadze-848171327/) _(opens in same tab)_
 <a href="mailto:davitimnadze98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
 </a>
