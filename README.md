@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>An auction service app — building the backend with ASP.NET Core and integrating email notifications, token-based authentication, and frontend UI using Angular.<br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Projects involving .NET backend development or full-stack apps that need solid architecture and real-world features.<br><br>🤝 I’m looking for help with<br>Front-end design best practices and advanced CI/CD pipeline automation.<br><br>🌱 I’m currently learning<br>Deeper CI/CD concepts, frontend technologies, and improving DevOps workflows.<br><br>💬 Ask me about<br>ASP.NET Core, JWT authentication, backend logic for business applications and integrating external APIs.<br><br>⚡ Fun fact<br>I’ve built systems from scratch for different domains — like nail salons, restaurants, and even game platforms — all in console or web-based or in WPF formats!
+
+🔭 I’m currently working on<br>
+Building scalable backend solutions with ASP.NET Core, focusing on REST APIs, authentication & authorization, database design, real-time communication, and cloud-based development workflows.<br><br>
+
+🧑‍🤝‍🧑 I’m looking to collaborate on<br>
+.NET backend projects, cloud-native applications, microservices, real-time systems, and full-stack solutions built with modern technologies.<br><br>
+
+🤝 I’m looking for help with<br>
+Advanced cloud architecture, distributed systems, performance optimization, and modern DevOps practices.<br><br>
+
+🌱 I’m currently learning<br>
+Azure services, cloud computing concepts, CI/CD pipelines, system design, SignalR, and software architecture patterns used in enterprise applications.<br><br>
+
+💬 Ask me about<br>
+C#, .NET, ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, PostgreSQL, JWT Authentication, SignalR, Dependency Injection, SOLID principles, and backend application architecture.<br><br>
+
+⚡ Fun fact<br>
+Every time I finish a software project, instead of resting like a normal person, I start a new one. Most recently, that meant jumping into Unity and game development to create even more problems for myself to solve.
+
 
 
 ## 🌐 Socials:
